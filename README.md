@@ -2,7 +2,8 @@ Hi there! 👋 I'm Haorong.
 - 🎓 Pursuing a Master's in Computer Science (MCS) at UIUC
 - 💻 Passionate about programming and technology
 - 🛠️ Keen on building low-level systems and infrastructures
-- 🚀 Actively learning [Rust](https://github.com/rust-lang/rust)
+- 🚀 Actively learning [Rust](https://github.com/rust-lang/rust). Make it Rusty!
+- 🍎 Served as a TA for CS introductory courses three times
 - 🏆 Enjoy watching various sports and e-sports competitions
 - 🎱 Pool & Snooker lover
 - 🚗 Driving enthusiast, though I don't have my own car yet :(

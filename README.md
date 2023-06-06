@@ -8,6 +8,6 @@ Hi there! 👋 I'm Haorong.
 - 🎱 Pool & Snooker lover
 - 🚗 Driving enthusiast, loving my cute Mazda 3 Sedan!
 
-[![ancientmodern's GitHub stats](https://github-readme-stats.vercel.app/api?username=ancientmodern)](https://github.com/anuraghazra/github-readme-stats)
+[![ancientmodern's GitHub stats](https://github-readme-stats.vercel.app/api?username=ancientmodern&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancientmodern&hide=html,css,ejs,makefile,tex&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

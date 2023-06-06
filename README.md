@@ -6,7 +6,7 @@ Hi there! 👋 I'm Haorong.
 - 🍎 Served as a TA for CS introductory courses three times
 - 🏆 Enjoy watching various sports and e-sports competitions
 - 🎱 Pool & Snooker lover
-- 🚗 Driving enthusiast, though I don't have my own car yet :(
+- 🚗 Driving enthusiast, loving my cute Mazda 3 Sedan!
 
 [![ancientmodern's GitHub stats](https://github-readme-stats.vercel.app/api?username=ancientmodern)](https://github.com/anuraghazra/github-readme-stats)
 
